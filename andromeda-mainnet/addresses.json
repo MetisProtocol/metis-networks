@@ -1,13 +1,9 @@
 {
   "BondManager": "0x595801b85628ec6979C420988b8843A40F850528",
-  "CanonicalTransactionChain": "0x56a76bcC92361f6DF8D75476feD8843EdC70e1C9",
   "ChainStorageContainer_CTC_batches": "0x38473Feb3A6366757A249dB2cA4fBB2C663416B7",
-  "ChainStorageContainer_CTC_queue": "0xA91Ea6F5d1EDA8e6686639d6C88b309cF35D2E57",
   "ChainStorageContainer_SCC_batches": "0x10739F09f6e62689c0aA8A1878816de9e166d6f9",
   "AddressManager": "0x918778e825747a892b17C66fe7D24C618262867d",
   "MVM_DiscountOracle": "0xC8953ca384b4AdC8B1b11B030Afe2F05471664b0",
-  "OVM_L1CrossDomainMessenger": "0x8bF439ef7167023F009E24b21719Ca5f768Ecb36",
-  "Proxy__MVM_CanonicalTransaction": "0x6A1DB7d799FBA381F2a518cA859ED30cB8E1d41a",
   "Proxy__MVM_ChainManager": "0xf3d58D1794f2634d6649a978f2dc093898FEEBc0",
   "Proxy__MVM_StateCommitmentChain": "0xA2FaAAC9120c1Ff75814F0c6DdB119496a12eEA6",
   "Proxy__OVM_L1CrossDomainMessenger": "0x081D1101855bD523bA69A9794e0217F0DB6323ff",
