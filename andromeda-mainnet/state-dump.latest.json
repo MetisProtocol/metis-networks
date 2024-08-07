@@ -12,6 +12,7 @@
         "istanbulBlock": 0,
         "muirGlacierBlock": 0,
         "berlinBlock": 3380000,
+        "shanghaiBlock": 18118000,
         "clique": {
             "period": 0,
             "epoch": 30000
